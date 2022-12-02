@@ -1,2 +1,2 @@
-# working_with_dart
- I'm learning how to use dart. I will take notes and code here.
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
